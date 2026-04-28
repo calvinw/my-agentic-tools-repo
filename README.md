@@ -1,4 +1,4 @@
-# Calvins AI Agentic Tools Template
+# Calvin Williamson AI Agentic Tools Template
 
 A minimal starting point for working with AI coding assistants in a dev container. The container image comes pre-loaded with all tools — this repo only needs the two config files to get everything running.
 
